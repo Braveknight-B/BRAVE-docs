@@ -9,4 +9,4 @@ https://sites.google.com/view/braveknightgame/home
 
 ## Join the organization
 
-- [link]()
+- [link](https://github.com/Braveknight-B/BRAVE-docs/blob/master/Join.md)
